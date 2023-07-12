@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac0a3285-3dc7-4c42-903a-9dafa09a14a5" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;062211&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "062211",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/JAVA"
   }
-}</component>
-  <component name="RunManager" selected="Application.Pattern3">
+}]]></component>
+  <component name="RunManager" selected="Application.Pattern5">
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Pattern1" />
+      <module name="Striver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern.Pattern2" />
       <module name="Striver" />
@@ -92,33 +105,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Pattern6" />
-      <module name="Striver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.Pattern6" />
         <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern2" />
         <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b8c76ff6-4297-46d0-a071-e264e35d9a52" name="Changes" comment="" />
+      <changelist id="ac0a3285-3dc7-4c42-903a-9dafa09a14a5" name="Changes" comment="initial" />
       <created>1689181871123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -201,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1689186284557</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="initial">
+      <created>1689186665987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689186665987</updated>
+    </task>
+    <task id="LOCAL-00013" summary="initial">
+      <created>1689190450538</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689190450538</updated>
+    </task>
+    <task id="LOCAL-00014" summary="initial">
+      <created>1689190457200</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689190457200</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
