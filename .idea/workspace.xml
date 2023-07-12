@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac0a3285-3dc7-4c42-903a-9dafa09a14a5" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern4">
+  <component name="RunManager" selected="Application.Pattern5">
     <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern.Pattern2" />
       <module name="Striver" />
@@ -79,11 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Pattern5" />
+      <module name="Striver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern2" />
         <item itemvalue="Application.Pattern4" />
         <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.Pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689185352436</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial">
+      <created>1689185582216</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689185582216</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initial">
+      <created>1689185689743</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689185689743</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
