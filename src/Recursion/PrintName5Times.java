@@ -2,7 +2,7 @@ package Recursion;
 
 public class PrintName5Times {
     public static void main(String[] args) {
-        int n=3;
+        int n=5;
 //        System.out.println(n);
         f(1,n);
     }
