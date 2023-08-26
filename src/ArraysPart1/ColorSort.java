@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysPart1;
 
 public class ColorSort {
     public static void main(String[] args) {
